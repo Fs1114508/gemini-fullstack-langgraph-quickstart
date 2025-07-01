@@ -4,7 +4,15 @@ This project demonstrates a fullstack application using a React frontend and a L
 
 <img src="./app.png" title="Gemini Fullstack LangGraph" alt="Gemini Fullstack LangGraph" width="90%">
 
-## Features
+## Features   
+
+- 📚 **Comprehensive Research**: Utilizes LangGraph to perform dynamic research on user queries.
+- 🧠 **Advanced Conversational AI**: Powered by Google Gemini models, LangGraph excels in complex conversations.
+- 🔍 **Dynamic Search Terms**: Generates search terms based on user queries for enhanced accuracy.
+- 🌐 **Web Research**: Utilizes Google Search API to gather information from the web.
+- 🤔 **Reflective Reasoning**: Identifies knowledge gaps and iteratively refines searches for comprehensive results.
+- 📄 **Cited Answers**: Generates answers with citations from reliable sources.
+
 
 - 💬 Fullstack application with a React frontend and LangGraph backend.
 - 🧠 Powered by a LangGraph agent for advanced research and conversational AI.
